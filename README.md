@@ -1,4 +1,4 @@
-# 🤖 Automate Machine Learning Model Training Web Application
+# Automate Machine Learning Model Training Web Application
 
 This project is a **no-code machine learning model training web application** built with **Streamlit**.  
 It allows users to easily upload datasets, preprocess data, select ML models, train them, and evaluate results — all from a simple web interface.
@@ -28,6 +28,3 @@ It allows users to easily upload datasets, preprocess data, select ML models, tr
   - Data preview and selection of target column.
 
 ---
-
-## 📂 Project Structure
-
